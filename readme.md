@@ -12,6 +12,3 @@ Nesta primeira sessão aprenderemos a utilização do SAS E. Guide, não apenas 
 #01 - Intermediario_de_SAS.egp
 
 Nesta segunda sessão vamos exemplificar como os conectores do SAS funcionam, conseguindo assim utilizar as funções de dentro do banco de dados e armazenar os dados dentro do banco de dados.
-
-
-
